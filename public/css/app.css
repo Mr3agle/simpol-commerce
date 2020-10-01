@@ -21234,6 +21234,11 @@ video {
           animation: bounce 1s infinite;
 }
 
+.router-link-active {
+  font-weight: bold;
+  color: white;
+}
+
 @media (min-width: 640px){
   .sm\:container{
     width: 100%;
